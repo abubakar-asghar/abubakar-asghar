@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86187636/201939144-7483b3c9-a8b5-4c0e-aef7-5ba7a5d64b78.png" alt="banner" style="width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<your-banner>.png" alt="banner" style="width: 100%;"/>
 </p>
 
 ---
