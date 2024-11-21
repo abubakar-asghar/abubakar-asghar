@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abubakarmalikgee/abubakarmalikgee/main/github-header-image.png" alt="banner" style="width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/abubakarmalikgee/abubakarmalikgee/main/github-header-image (2).png" alt="banner" style="width: 100%;"/>
 </p>
 
 ---
