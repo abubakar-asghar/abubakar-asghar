@@ -14,9 +14,9 @@
 - 🌱 **Currently Learning:** Next.js, Redux Toolkit, MongoDB Aggregation Pipelines, and Android Development  
 - 🖥️ **Projects:** Building Multi-Seller E-commerce Websites & Social Media Apps  
 - 🎯 **Goals:** Securing a web development job and mastering cutting-edge technologies  
-- 🤝 **Open to Collaboration:** On MERN stack, Next.js, and AI-based projects  
+- 🤝 **Open to Collaboration:** On MERN stack, Next.js, and E-commerce projects  
 - 🌐 **Portfolio:** Coming Soon...  
-- 📫 **Contact Me:** abubakar@example.com  
+- 📫 **Contact Me:** abub81159@gmail.com  
 
 ---
 
@@ -62,13 +62,13 @@
 ### 📫 Let's Connect:
 
 <p align="left">
-  <a href="mailto:abubakar@example.com">
+  <a href="mailto:abub81159@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/abubakar">
+  <a href="https://www.linkedin.com/in/abu-baker-malik-659572303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/abubakarmalikgee">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
